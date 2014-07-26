@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>NoteIT Main Page</title>
+<style type="text/css">
+body,td,th {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #06F;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h1 {
+	font-size: xx-large;
+}
+h2 {
+	font-size: x-large;
+}
+h3 {
+	font-size: large;
+}
+</style>
+</head>
+<h1> Welcome to NoteIT </h1>
+<p><font face="Verdana, Geneva, sans-serif"></font>The purpose of noteIT is to provide connectivity between students and teachers and to create a better learning environment where both students and teachers can share their work and help the community learn in a better way.
+
+<a href="SignUp.php" target="_blank">Sign up here!</a>
+
+
+</p>
+<body>
+</body>
+</html>
