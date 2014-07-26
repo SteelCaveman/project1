@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Untitled Document</title>
+</head>
+<strong> 
+<body>
+<p>&nbsp;</p>
+<p> <img src="images/noteitlogo.jpg" alt="noteITlogo" width="497" height="137" /></p>
+<p>Welcome to noteIT Sign up! We will need you to enter the following:</p>
+<form action="" method="post">
+  <center><p>Name: <input type="text" name="name" /></p>
+<p>Course :<input type="text" name="course"/></p>
+<p>  Registration Number:
+  <input type="text" name="reg" />
+</p>
+<input type="submit" /></center></form>
+
+<a href="Main.php" target="_blank">CLick here to retun to the main page.</a>
+</body>
+</html>
